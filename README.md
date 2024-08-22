@@ -5,9 +5,13 @@
 * Composer
 
 ## Como executar
-Duplicar o arquivo ".env.example" e renomear para ".env"
-Alterar no arquivo .env as credenciais do banco de dados
+
+Clonar projeto
+Instalar Dev Dependencies
 
 
-Gerar chave do arquivo .env
-php artisan key:generate
+## Modificar arquivo .env
+
+DB_CONNECTION=mysql
+DB_DATABASE=crud_laravel
+
