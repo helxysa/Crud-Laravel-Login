@@ -11,7 +11,9 @@ Instalar Dev Dependencies
 
 
 ## Modificar arquivo .env
-
+<br>
 DB_CONNECTION=mysql
+<br>
 DB_DATABASE=crud_laravel
+<br>
 
