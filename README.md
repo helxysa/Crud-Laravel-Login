@@ -3,6 +3,7 @@
 * PHP 8.2 >
 * MySQL 8 >
 * Composer
+* Xampp
 
 ## Como executar
 
